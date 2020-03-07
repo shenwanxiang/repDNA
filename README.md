@@ -1,6 +1,9 @@
 repDNA
 ======
 
+This repo is foked from https://github.com/liufule12/repDNA
+
+I have fixed some bugs when importing and this one is a new version for repDNA
 
 repDNA is a Python package to generate various modes of feature vectors for DNA sequences by incorporating user-defined physicochemical properties and sequence-order effects.
 
