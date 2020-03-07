@@ -27,7 +27,7 @@ python setup.py install
 Usage
 ============
 
-## [example](https://github.com/shenwanxiang/repDNA/blob/master/example/example.ipynb)
+[example to use is here](https://github.com/shenwanxiang/repDNA/blob/master/example/example.ipynb)
 
 
 
